@@ -1,7 +1,7 @@
 
-# Binary_seaych
+# Binary_search
 
-**Conditions: **
+**Conditions:**
 + Ordered list
 
 **Time complexity:**
