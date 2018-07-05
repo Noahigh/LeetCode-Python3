@@ -5,7 +5,7 @@
 + Ordered list
 
 **Time complexity:**
-+ 1~logn
++ $1$~$O(logn)$
 
 ---
 
