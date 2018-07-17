@@ -1,10 +1,10 @@
 # Binary_search
 
 **Conditions:**
-+ Ordered list
++ `Ordered list`
 
 **Time complexity:**
-+ 1~logn
++ `1~O(logn)`
 
 ---
 
