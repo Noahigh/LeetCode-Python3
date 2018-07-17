@@ -1,4 +1,3 @@
-
 # Binary_search
 
 **Conditions:**
@@ -15,7 +14,7 @@ def binary_search(nums, target):
     high = len(nums) - 1
 
     while low <= high: # Recursive case
-        mid = int((low + high) / 2)
+        mid = (low + high) // 2
 	guess = nums[mid]
 
 	if guess == target: # Base case
@@ -32,3 +31,6 @@ print(binary_search(my_list, 5))
 print(binary_search(my_list, 0))
 
 ```
+
+参考练习题目：
++ [leetcode 35.search-insert-position](https://leetcode-cn.com/problems/search-insert-position/description/)
